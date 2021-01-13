@@ -1,0 +1,20 @@
+# JIRA - Server configuration
+JIRA_SERVER_URI = 'https://company.atlassian.net'
+JIRA_API_TOKEN = ''
+JIRA_API_TOKEN_USER_EMAIL = 'test@example.com'
+
+# JIRA - Filter configuration
+JIRA_USER_EMAIL = 'test@example.com'
+JIRA_PROJECT_KEY = ''
+JIRA_FILTER_STATUSES = ['In progress', 'Quality Assurance']
+JIRA_EXCLUDED_ISSUES = []
+JIRA_CUSTOM_JQL = 'AND TRUE'
+
+# SLACK
+SLACK_APP_TOKEN = ''
+SLACK_TARGET_CHANNEL_NAME = 'daily_channel'
+SLACK_USER_NAME = 'John Doe'
+SLACK_USER_ICON_URI = 'https://www.example.com/johndoe.jpg'
+
+# RAPIDAPI
+RAPIDAPI_API_KEY = ''

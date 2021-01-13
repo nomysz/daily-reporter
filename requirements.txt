@@ -1,0 +1,4 @@
+jira
+slackclient
+requests
+urllib
